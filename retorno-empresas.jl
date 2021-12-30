@@ -53,4 +53,3 @@ K = hclust(D)
 L = cutree(K, k=3)
 
 insertcols!(df_empresas, 9, :hclusters => L)
-
