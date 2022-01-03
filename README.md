@@ -1,2 +1,2 @@
 # retorno-empresas
-Regressão aplicada ao retorno de investimento em empresas
+Métodos de Unsupervised Machine Learning aplicados na linguagem Julia.
