@@ -1,2 +1,2 @@
 # retorno-empresas
-Métodos de Unsupervised Machine Learning aplicados na linguagem Julia.
+Métodos de Unsupervised e Supervised Machine Learning aplicados na linguagem Julia.
