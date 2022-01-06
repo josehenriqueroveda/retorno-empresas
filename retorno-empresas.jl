@@ -105,3 +105,7 @@ r2(lm4.model)
 df_validation = df_empresas[!, 2:6]
 df_validation.y = predict(lm4, df_validation)
 df_validation
+
+
+@df df_validation plot(df_validation.retorno, label = "actual")
+@df df_validation plot!(df_validation.y, label = "predicted")
